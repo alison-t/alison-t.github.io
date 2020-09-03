@@ -2,8 +2,8 @@
   "basics": {
     "name": "Alison Tomooka",
     "label": "Student",
-    "picture": "https://alison-t.github.io/images/300x300-Profile.jpg",
-    "email": "atomopka@hawaii.edu",
+    "picture": "https://alison-t.github.io/images/300x300-Profile.png",
+    "email": "atomooka@hawaii.edu",
     "phone": "",
     "website": "https://alison-t.github.io",
     "summary": "I am studying for a B.A. in Economics and a minor in Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2022.",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "Economics",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Data Science",
       "keywords": [
       ]
     }
