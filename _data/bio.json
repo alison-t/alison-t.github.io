@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alison Tomooka",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://alison-t.github.io/images/300x300-Profile.jpg",
+    "email": "atomopka@hawaii.edu",
+    "phone": "",
+    "website": "https://alison-t.github.io",
+    "summary": "I am studying for a B.A. in Economics and a minor in Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,27 +17,17 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "alison-t",
+        "url": "http://github.com/alison-t"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "alison-t",
+        "url": "http://linkedin.com/in/alison-t"
       }
     ]
   },
-  "interests": [
+  /*"interests": [
     {
       "name": "internet of things",
       "keywords": [
@@ -55,7 +45,7 @@
       "keywords": [
       ]
     }
-  ],
+  ],*/
   "skills": [
     {
       "name": "Languages and Frameworks",
