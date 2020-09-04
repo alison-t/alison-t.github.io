@@ -10,7 +10,7 @@ labels:
 
 One of the scariest parts of a new Computer Science course is the challenge of learning a new language.
 
-It is one of the most exciting parts, too.
+Oddly enough, that challenge happens to be one of the most exciting parts of Computer Science, too.
 
 ## Javascript? Is that just Java's full name?
 
