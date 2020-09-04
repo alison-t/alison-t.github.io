@@ -30,10 +30,6 @@ Like learning a new sport takes practice, understanding and being able to utiliz
 
 The practice Work-Out-of-the-Days (WODs) make for consistent practice of Javascript, so far, in and out of the classroom. The homework provides self-driven practice and the foundation for honing our skills on the five-of-seven days we do not have class in the week. The in-class practice WODs offer collaboration and outside insight, without the immediate exposure to, "Here is a solution!" Additionally, the forming solutions on our own, then viewing the professor's take on it, offers a new perspective and method of solving the "problem" at hand. (Usually a faster and shorter solution, too.)
 
-This format, with regular practice in class and for homework, ensures we take the time to become familiar with the language we are working with. While some WODs are more difficult than others and require more time, the practice with the language makes for desigining the solution the challenge, as opposed to attempting to recall how exactly we declare a variable or write a function. It is time-consuming and makes ICS 314 the course I dedicate the most time to, but like atheletes dedicate hours to practice and work-outs, developing skills in Javascript and software engineering would logically taake time, too.
-
-So, stressful? Definitely. It is way more work for one class than I expected.
-
-Worth it? I am thinking so.
+This format, with regular practice in class and for homework, ensures we take the time to become familiar with the language we are working with. While some WODs are more difficult than others and require more time, the practice with the language makes for desigining the solution the challenge, as opposed to attempting to recall how exactly we declare a variable or write a function. It is time-consuming and makes ICS 314 the course I dedicate the most time to, but like atheletes dedicate hours to practice and workouts, developing skills in Javascript and software engineering would logically take time, too.
 
 
