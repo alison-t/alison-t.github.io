@@ -4,8 +4,8 @@ type: essay
 title: Start of Something New
 date: 2020-09-03
 labels:
-	-Javascript
-	-Athletic Software Engineering
+ -Javascript
+ -Athletic Software Engineering
 ---
 
 One of the scariest parts of a new Computer Science course is the challenge of learning a new language.
