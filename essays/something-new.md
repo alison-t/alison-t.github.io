@@ -8,9 +8,9 @@ labels:
   - Athletic Software Engineering
 ---
 
-One of the scariest parts of a new Computer Science course is the challenge of learning a new language.
+One of the most terrifying parts of a new Computer Science course is the challenge of learning a new language.
 
-Oddly enough, that challenge happens to be one of the most exciting parts of Computer Science, too.
+It just so happens, though, that challenge happens to be one of the most exciting parts of Computer Science, too.
 
 ## Javascript? Is that just Java's full name?
 
