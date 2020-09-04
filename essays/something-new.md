@@ -4,15 +4,15 @@ type: essay
 title: Start of Something New
 date: 2020-09-03
 labels:
- -Javascript
- -Athletic Software Engineering
+  - Javascript
+  - Athletic Software Engineering
 ---
 
 One of the scariest parts of a new Computer Science course is the challenge of learning a new language.
 
 It is one of the most exciting parts, too.
 
-##Javascript? Is that just Java's full name?
+## Javascript? Is that just Java's full name?
 
 Going into ICS 314, all I knew was that Javascript was a programming langauge that existed--and that maybe, "Java," was just short for, "Javascript." After going through freeCodeCamp's challenges of, "Basic JavaScript," and "ES6," I have learned that the latter is not quite the case. While I have come to find similarities between the two, making the initial introduction to Javascript a smoother transition, Java and Javascript have differences as well.
 
@@ -22,7 +22,7 @@ That being said, Javascript seems intriguing as a language for software engineer
 
 Hopefully, by the end of this semester, I can give a succinct answer towards the relationship of Javascript and software engineering. With the way ICS 314 seems to be taught, it seems likely.
 
-##Every Educator/Coach Ever: "Practice!"
+## Every Educator/Coach Ever: "Practice!"
 
 When I took the introductory courses at UH for Japanese and American Sign Langauge (ASL), the professors emphasized the necessity of practice--especially outside of class. This makes sense. I learned English through hearing my family speak the language at home. I developed my reading comprehension and vocabulary through reading in and out of the classroom. On the other end, a lack of practice makes for forgetting. Spending the summer not using ASL made for the start of this semester incredibly difficult.
 
