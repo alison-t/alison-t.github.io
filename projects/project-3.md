@@ -1,61 +1,30 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Rplot.png
+title: Is College Worth Its Cost?
+permalink: projects/college-worth
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-05-07
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Economics
+  - College
+  - R
+  - Data Analysis and Visualization
+summary: Report on the relationship between education levels and income with data organized, analyzed, and presented through the programming language: R.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Two fields I have found intriguing for future careers have been in Economics and Computer Science. With having switched majors from Computer Science to Econmics, while still planning to minor in the former, ECON 256: Data Analysis and Visualization seamlessly brought my two interests together.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Throughout the Spring 2020 semester, ECON 256 was a course that taught methods of organizing and analyzing data using the programming language of R, and how to create interesting and interactive graphics with the language. The class culminated with a final project on a research question of our choosing, with the requirements of at least five graphics created in R through RStudio.
 
-To give you a flavor of the game, here is an excerpt from one run:
+<img class="ui small right floated rounded image" src="../images/G5.png">
 
-<hr>
+It had always been a question of mine, whether college would actually be worth its financial burden. With tuitions, alone, ranging from $10,000 to $40,000 across the country, I was interested to know if higher degrees truly offered such a difference in future income. Alas, data from various surveys seemed to think so.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Outside of having answered the question, the project showcases a semster's development in a programming language unlike ones I experienced in Computer Science courses. It took time to learn, but it was great to bring my interests in Economics and Computer Science together to address a topic of personal concern. The research project showed me the ways Economics and Computer Science can reach areas outside of their own--that Econmics offered me the skills to view and analyze costs, while Computer Science provided skills that did not need to be retricted to designing a website or game.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+All in all, my final project for ECON 256 was a moment of realizing that possibilites to explore fields that combined several of my interests were out there and much less limited than I thought.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+You can find my research project's code and report, [here](https://github.com/alison-t/econ-256-final-project).
 
