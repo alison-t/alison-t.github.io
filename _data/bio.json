@@ -81,7 +81,7 @@
         "ICS 212",
         "ICS 241",
         "ICS 314",
-        "MATH 242"
+        "MATH 242",
         "PHYS 170"
       ],
       "institution": "James B. Castle High School, Kaneohe, HI",
@@ -89,6 +89,7 @@
       "endDate": "2018-05-26",
       "gpa": "4.043",
       "courses": [
+        "AP Calculus AB"
       ]
     }
   ],
