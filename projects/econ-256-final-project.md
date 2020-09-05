@@ -18,7 +18,7 @@ Two fields I have found intriguing for future careers have been in Economics and
 
 Throughout the Spring 2020 semester, ECON 256 was a course that taught methods of organizing and analyzing data using the programming language of R, and how to create interesting and interactive graphics with the language. The class culminated with a final project on a research question of our choosing, with the requirements of at least five graphics created in R through RStudio.
 
-<img class="ui small right floated rounded image" src="../images/G5.png">
+<img class="ui large right floated rounded image" src="../images/G5.png">
 
 It had always been a question of mine, whether college would actually be worth its financial burden. With tuitions, alone, ranging from $10,000 to $40,000 across the country, I was interested to know if higher degrees truly offered such a difference in future income. Alas, data from various surveys seemed to think so.
 
