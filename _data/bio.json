@@ -6,7 +6,7 @@
     "email": "atomooka@hawaii.edu",
     "phone": "",
     "website": "https://alison-t.github.io",
-    "summary": "I am studying for a B.A. in Economics and a minor in Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2022.",
+    "summary": "I am studying for a B.A. in Economics and a minor in Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2022, with plans for a Post-Graduate degree.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -52,9 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R",
+        "Javascript"
       ]
     },
     {
@@ -62,90 +61,78 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Economics with minor in Computer Science (expected Spring, 2022)",
+      "studyType": "B.A.",
+      "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.84",
+      "courses": [
+        "ECON 256",
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241",
+        "ICS 314",
+        "MATH 242"
+        "PHYS 170"
+      ],
+      "institution": "James B. Castle High School, Kaneohe, HI",
+      "startDate": "2014-08-01",
+      "endDate": "2018-05-26",
+      "gpa": "4.043",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Manoa Bookstore",
+      "position": "Bookstore Customer Service Associate II",
+      "website": "https://www.bookstore.hawaii.edu/manoa/",
+      "startDate": "2018-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provide high level of customer service, sales support, and cashiering assistance. Assist with various store operations.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Experience with customer service and cashiering",
+        "Proficiency with Excel and Outlook",
+        "Use of wide-format and direct-to-garment printers"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Key Club International: Castle High School",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Secretary",
+      "startDate": "2016-05-01",
+      "endDate": "2017-06-01",
+      "summary": "Secretary for school's Key Club",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Take minutes at all board and general membership meetings",
+        "Submit monthly reports of club activities and service hours"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii, Manoa",
+      "summary": "The Mānoa Academic Merit Scholarship is an automatic scholarship for four years of undergraduate study. This scholarship is for first-time, degree-seeking students who enroll the semester after high school graduation."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Windward District Perfomance-Based Assessment: First Place in Fashion Design Challenge",
+      "date": "2017",
+      "awarder": "Windward Academy for CTE",
+      "summary": "I won first place in 2017.  See my portfolio site for more details."
     }
   ],
   "references": [
