@@ -11,7 +11,7 @@ labels:
   - College
   - R
   - Data Analysis and Visualization
-summary: Report on the relationship between education levels and income with data organized, analyzed, and presented through the programming language: R.
+summary: Report on the relationship between education levels and income with data organized, analyzed, and presented through the programming language, R.
 ---
 
 Two fields I have found intriguing for future careers have been in Economics and Computer Science. With having switched majors from Computer Science to Econmics, while still planning to minor in the former, ECON 256: Data Analysis and Visualization seamlessly brought my two interests together.
