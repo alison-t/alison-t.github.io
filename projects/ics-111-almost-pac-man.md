@@ -13,10 +13,6 @@ labels:
 summary: For our final project in ICS 111 at UH, my team designed a Pacman-inspired game.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/ICS-111-game.png">
-</div>
-
 ICS 111 is the introductory course for the Computer Science program at UH Manoa. Over the semester, we are taught how to use the language, Java. As a final showcase of what we learned in the class, we were assigned to create a project utilizing various concepts covered throughout the semester.
 
 These concepts included:
