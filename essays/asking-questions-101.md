@@ -13,9 +13,9 @@ In their essay, [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/f
 
 ## What is the *Smart* Way?
 
-<img class="ui large right floated rounded image" src="../images/brain.jpg">
-
 To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
+
+<img class="ui small right floated rounded image" src="../images/brain.jpg">
 
 ### Major Characteristics of Smart Questioning:
   - Posting to an appropriate forum
@@ -37,7 +37,7 @@ While it can be easy to describe how a situation might unravel depending on the 
 
 User, *TheNurb*, inquired about ["Grouping a map by object's property to a new Map"](https://stackoverflow.com/questions/63837641/grouping-a-map-by-objects-property-to-a-new-map), and showcase the not-so-smart approach to questioning. While the subject offers a bit of insight into the issue, it is difficult to grasp the context of the problem which, as Raymond and Moen express, would deter hackers from giving the question the time of day.
 
-<img class="ui medium right floated rounded image" src="../images/q-and-a.png">
+<img class="ui medium right floated rounded image" src="../images/q-signs.png">
 
 Looking into the entirety of the user's post, finding the question being asked is also difficult to do. With ample amounts of code, the problem the user describes is easily buried and makes attempting to answer much more time-consuming. We cannot, however, discredit the user's provision of the prior steps taken towards fixing their code and describing the code's major goal--not just the step going wrong.
 
@@ -48,6 +48,8 @@ Not to mention, *Andreas*' use of, "So?!? Fix it!" and "I don't see the problem,
 ### Precise and Concise
 
 User, *user1234*, posted a question, ["What is the Character Encoding of x509 certificates?"](https://stackoverflow.com/questions/63824786/what-is-the-character-encoding-of-x509-certificates) and, just from the subject, begins to exemplify the "smart way" of asking technical questions. The subject provides the basic inquiry of the post, along with specifics in the type of certificates. This clear introduction the user's questions allows others decide whether they have the capacity to offer a solution to the question without opening the thread.
+
+<img class="ui medium left floated rounded image" src="../images/q-and-a.png">
 
 Within the body of their post, *user1234* follows the guidelines of the "smart way" by providing the server their implementing, the goal of their project, and a link to the requirements for it. After the brief introduction, the problem is clearly described as *user1234* offers specifics to the issues with their program's defaults and the expected output. Following this, the user provides attempts they have made in re-working the code and at researching for pre-existing answers on the Internet. With providing details from their search that may further assist the issue, *user1234* concludes with a precise, and concise, question--slightly more detailed than that in their subject.
 
