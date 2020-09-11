@@ -10,11 +10,11 @@ labels:
 
 In their essay, [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html), Eric S. Raymond and Rick Moen cover the dos and don'ts of asking technical questions--whether by email, mailing list, or online forum. With insight into the hacker community, steps to take prior to posing technical questions, and the "smart" way to ask a question, the essay provides a helpful guide towards asking the right questions to get answers quickly and effectively.
 
-<img class="ui large right floated rounded image" src="../images/brain.jpg">
-
 ## What is the *Smart* Way?
 
 To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
+
+<img class="ui large right floated rounded image" src="../images/brain.jpg">
 
 ### Major Characteristics of Smart Questioning:
   - Posting to an appropriate forum
