@@ -39,7 +39,7 @@ User, *TheNurb*, inquired about ["Grouping a map by object's property to a new M
 
 Looking into the entirety of the user's post, finding the question being asked is also difficult to do. With ample amounts of code, the problem the user describes is easily buried and makes attempting to answer much more time-consuming. We cannot, however, discredit the user's provision of the prior steps taken towards fixing their code and describing the code's major goal--not just the step going wrong.
 
-<img class="ui large left floated rounded image" src="../images/q-signs.jpg">
+<img class="ui medium left floated rounded image" src="../images/q-signs.jpg">
 
 Still, as seen in the comments on the initial question, there is quite a bit of back-and-forth about the context of the code's use and the constraints of the project. Where user, *Andreas*, provides a working solution to the initial inquiry, *TheNurb* later provides that their project is limited, and the change prescribed would not fit within the requirements of their code. Had this greater context of what *TheNurb* could and could not do with their code been providing from the get-go, an answer could have been reached more efficiently.
 
