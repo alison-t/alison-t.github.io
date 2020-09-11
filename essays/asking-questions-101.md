@@ -12,7 +12,7 @@ In their essay, [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/f
 
 ## What is the *Smart* Way?
 
-<img class="ui medium left floated rounded image" src="../images/brain.jpg">
+<img class="ui medium right floated rounded image" src="../images/brain.jpg">
 
 To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
 
