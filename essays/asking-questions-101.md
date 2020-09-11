@@ -29,7 +29,7 @@ Questions asked the "smart way" should be clear, but not wordy, and provide the 
 
 ## The Smart vs. Not Smart Way of Questioning
 
-<img class="ui medium left floated rounded image" src="../images/q-and-a.jpg">
+<img class="ui medium left floated rounded image" src="../images/q-and-a.png">
 
 While it can be easy to describe how a situation might unravel depending on the approach to questioning, here are two different posts to Stack Overflow. The first exhibits the traits and results of the "not smart way" of asking a question, while the second provides a glimpse of the efficiency of the "smart way."
 
