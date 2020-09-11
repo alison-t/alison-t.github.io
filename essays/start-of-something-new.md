@@ -12,7 +12,7 @@ One of the most terrifying parts of a new Computer Science course is the challen
 
 It happens to be one of the most exciting parts of Computer Science, too.
 
-## JavaScript? Is that just Java's full name?
+## JavaScript? Is That Just Java's Full Name?
 
 Going into ICS 314: Software Engineering I, at the University of Hawaii at Manoa (UHM), all I knew was that JavaScript was a programming language that existed--and that maybe, "Java," was just short for, "JavaScript." After going through freeCodeCamp's challenges of, "Basic JavaScript," and "ES6," I have learned that the latter is not quite the case. While I have come to find similarities between the two, making the initial introduction to JavaScript a smoother transition, Java and JavaScript have differences as well.
 
