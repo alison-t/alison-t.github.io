@@ -37,7 +37,7 @@ While it can be easy to describe how a situation might unravel depending on the 
 
 User, *TheNurb*, inquired about ["Grouping a map by object's property to a new Map"](https://stackoverflow.com/questions/63837641/grouping-a-map-by-objects-property-to-a-new-map), and showcase the not-so-smart approach to questioning. While the subject offers a bit of insight into the issue, it is difficult to grasp the context of the problem which, as Raymond and Moen express, would deter hackers from giving the question the time of day.
 
-<img class="ui medium right floated rounded image" src="../images/q-signs.png">
+<img class="ui medium right floated rounded image" src="../images/q-signs.jpg">
 
 Looking into the entirety of the user's post, finding the question being asked is also difficult to do. With ample amounts of code, the problem the user describes is easily buried and makes attempting to answer much more time-consuming. We cannot, however, discredit the user's provision of the prior steps taken towards fixing their code and describing the code's major goal--not just the step going wrong.
 
