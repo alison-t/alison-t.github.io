@@ -8,6 +8,8 @@ labels:
   - Athletic Software Engineering
 ---
 
+<img class="ui medium right floated rounded image" src="../images/code.jpg">
+
 One of the most terrifying parts of a new Computer Science course is the challenge of learning a new language.
 
 It happens to be one of the most exciting parts of Computer Science, too.
@@ -43,6 +45,8 @@ JavaScript seems intriguing as a language for software engineering. From the per
 Hopefully, by the end of this semester, I can give a succinct answer towards the relationship of JavaScript and software engineering. With the way ICS 314 seems to be taught, it seems likely.
 
 ## Every Educator/Coach Ever: "Practice!"
+
+<img class="ui medium right floated rounded image" src="../images/practice.jpg">
 
 When I took the introductory courses at UHM for Japanese and American Sign Language (ASL), the professors emphasized the necessity of practice--especially outside of class. This makes sense. I learned English through hearing my family speak the language at home. I developed my reading comprehension and vocabulary through reading in and out of the classroom. On the other end, a lack of practice makes for forgetting. Spending the summer not using ASL made for the start of this semester incredibly difficult.
 
