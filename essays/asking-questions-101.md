@@ -13,9 +13,9 @@ In their essay, [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/f
 
 ## What is the *Smart* Way?
 
-To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
-
 <img class="ui large right floated rounded image" src="../images/brain.jpg">
+
+To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
 
 ### Major Characteristics of Smart Questioning:
   - Posting to an appropriate forum
@@ -37,11 +37,11 @@ While it can be easy to describe how a situation might unravel depending on the 
 
 User, *TheNurb*, inquired about ["Grouping a map by object's property to a new Map"](https://stackoverflow.com/questions/63837641/grouping-a-map-by-objects-property-to-a-new-map), and showcase the not-so-smart approach to questioning. While the subject offers a bit of insight into the issue, it is difficult to grasp the context of the problem which, as Raymond and Moen express, would deter hackers from giving the question the time of day.
 
+<img class="ui medium right floated rounded image" src="../images/q-and-a.png">
+
 Looking into the entirety of the user's post, finding the question being asked is also difficult to do. With ample amounts of code, the problem the user describes is easily buried and makes attempting to answer much more time-consuming. We cannot, however, discredit the user's provision of the prior steps taken towards fixing their code and describing the code's major goal--not just the step going wrong.
 
 Still, as seen in the comments on the initial question, there is quite a bit of back-and-forth about the context of the code's use and the constraints of the project. Where user, *Andreas*, provides a working solution to the initial inquiry, *TheNurb* later provides that their project is limited, and the change prescribed would not fit within the requirements of their code. Had this greater context of what *TheNurb* could and could not do with their code been providing from the get-go, an answer could have been reached more efficiently.
-
-<img class="ui medium right floated rounded image" src="../images/q-and-a.png">
 
 Not to mention, *Andreas*' use of, "So?!? Fix it!" and "I don't see the problem," imply that the user offering an answer is getting quite frustrated with the multitude of questions and context appearing later in time. As Raymond and Moen note in their essay, nobody is *required* to answer the questions posted. If you are asking for others to go out of their way to answer your question--try not to waste their time while you are at it.
 
