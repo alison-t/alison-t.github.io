@@ -10,6 +10,8 @@ labels:
 
 In their essay, [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html), Eric S. Raymond and Rick Moen cover the dos and don'ts of asking technical questions--whether by email, mailing list, or online forum. With insight into the hacker community, steps to take prior to posing technical questions, and the "smart" way to ask a question, the essay provides a helpful guide towards asking the right questions to get answers quickly and effectively.
 
+<img class="ui medium right floated rounded image" src="../images/brain.jpg">
+
 ## What is the *Smart* Way?
 
 To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
@@ -25,9 +27,9 @@ To begin, Raymond and Moen stress doing research and attempting to the solve the
 
 Questions asked the "smart way" should be clear, but not wordy, and provide the most insight to the situation--as to avoid unnecessary back-and-forth between the person asking the question and those providing an answer. By following these guidelines, a technical question is likely to find help from the community in an effective and efficient manner. That being said, in forgoing these steps, one can expect the opposite result in their inquiry.
 
-<img class="ui large right floated rounded image" src="../images/brain.jpg">
-
 ## The Smart vs. Not Smart Way of Questioning
+
+<img class="ui medium left floated rounded image" src="../images/q-and-a.jpg">
 
 While it can be easy to describe how a situation might unravel depending on the approach to questioning, here are two different posts to Stack Overflow. The first exhibits the traits and results of the "not smart way" of asking a question, while the second provides a glimpse of the efficiency of the "smart way."
 
@@ -48,6 +50,8 @@ User, *user1234*, posted a question, ["What is the Character Encoding of x509 ce
 Within the body of their post, *user1234* follows the guidelines of the "smart way" by providing the server their implementing, the goal of their project, and a link to the requirements for it. After the brief introduction, the problem is clearly described as *user1234* offers specifics to the issues with their program's defaults and the expected output. Following this, the user provides attempts they have made in re-working the code and at researching for pre-existing answers on the Internet. With providing details from their search that may further assist the issue, *user1234* concludes with a precise, and concise, question--slightly more detailed than that in their subject.
 
 The approach to asking their question the "smart way," is rewarded in a working solution being provided within an hour. Unlike the previous post by *TheNurb*, *user1234*'s technical question and, user, *Steffen Ullrich*'s response, avoids the back-and-forth that occurred in *TheNurb*'s comments. Not only that, but *Steffen Ullrich* was able to provide *user1234* with a solution just as concise as their own. This quick and efficient exchange showcases the advantages of questioning the "smart way." (Though, it would have been better etiquette for *user1234* to verbally acknowledge *Steffen Ullrich*'s solution--not just mark the question as "answered.")
+
+<img class="ui medium right floated rounded image" src="../images/baby-has-questions.jpg">
 
 ## So, Are There Stupid Questions?
 
