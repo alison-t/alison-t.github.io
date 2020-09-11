@@ -12,7 +12,7 @@ In their essay, [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/f
 
 ## What is the *Smart* Way?
 
-<img class="ui medium right floated rounded image" src="../images/brain.jpg">
+<img class="ui large right floated rounded image" src="../images/brain.jpg">
 
 To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
 
@@ -51,11 +51,11 @@ Within the body of their post, *user1234* follows the guidelines of the "smart w
 
 The approach to asking their question the "smart way," is rewarded in a working solution being provided within an hour. Unlike the previous post by *TheNurb*, *user1234*'s technical question and, user, *Steffen Ullrich*'s response, avoids the back-and-forth that occurred in *TheNurb*'s comments. Not only that, but *Steffen Ullrich* was able to provide *user1234* with a solution just as concise as their own. This quick and efficient exchange showcases the advantages of questioning the "smart way." (Though, it would have been better etiquette for *user1234* to verbally acknowledge *Steffen Ullrich*'s solution--not just mark the question as "answered.")
 
-<img class="ui large right floated rounded image" src="../images/baby-has-questions.jpg">
-
 ## So, Are There Stupid Questions?
 
 "Smart" is a fairly relative term, thus "stupid" is equally so. Where one person might have ample experience in an area, others might be incredibly new. Should this prevent newbies from asking basic questions? Is this grounds for experts to ignore the inquiries of those below them? Are there actually stupid questions? And will they only yield stupid answers?
+
+<img class="ui medium right floated rounded image" src="../images/baby-has-questions.jpg">
 
 To all the above, I am inclined to say, "No."
 
@@ -63,6 +63,6 @@ Learning must begin somewhere. Experience must start somewhere. Usually, it begi
 
 Every question holds value, maybe to you, the person asking, or a freshman in the UH ICS program with no coding experience Googling their way to the fix to the error in their code. This value gives the question purpose, thus making it far from being "stupid" to have asked, because turns out, someone probably needed the answer.
 
-Yet there *are* stupid ways to asking a question. In the same way asking an English professor for help on math homework before checking with your math professor might not be the brightest decision, "smart" questioning is a matter of the approach the question and situation--not the actual question being asked. Being resourceful and working through the issue to the best of your ability, prior to reaching out more publicly for help, is an important skill in technical questioning.
+Yet there *are* stupid ways to asking a question. In the same way asking an English professor for help on math homework before checking with your math professor might not be the brightest decision, "smart" questioning is a matter of the approach to the question and situation--not the actual question being asked. Being resourceful and working through the issue to the best of your ability, prior to reaching out more publicly for help, is an important skill in technical questioning.
 
 It is not that stupid questions will get you stupid results, but more so that the amount of effort you put into your own problems will be reflected in the attempts to help by others.
