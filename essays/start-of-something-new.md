@@ -20,19 +20,19 @@ Going into ICS 314: Software Engineering I, at the University of Hawaii at Manoa
 
 A notable difference between Java and JavaScript, along with C and JavaScript, is the lack of variable-type declaration within the code.
 
-Java:
+### Java:
 ```
   int j = 0;
   String messageJava = "Hello";
 ```
 
-C++:
+### C++:
 ```
   int c = 0;
   string messageCPP = "Hello";
 ```
 
-JavaScript:
+### JavaScript:
 ```
   let js = 0;
   let messageJS = "Hello";
