@@ -50,7 +50,7 @@ When I took the introductory courses at UHM for Japanese and American Sign Langu
 
 Like learning a new sport takes practice, understanding and being able to utilize a new language takes practice. A fact that ICS 314 and the professor, Phillip Johnson, truly emphasizes.
 
-<img class="ui medium right floated rounded image" src="../images/practice.jpg">
+<img class="ui large right floated rounded image" src="../images/practice.jpg">
 
 The practice Work-Out-of-the-Days (WODs) make for consistent practice of JavaScript, so far, in and out of the classroom. The homework provides self-driven practice and the foundation for honing our skills on the five-of-seven days we do not have class in the week. The in-class practice WODs offer collaboration and outside insight, without the immediate exposure to, "Here is a solution!" Additionally, the forming solutions on our own, then viewing the professor's take on it, offers a new perspective and method of solving the "problem" at hand. (Usually a faster and shorter solution, too.)
 
