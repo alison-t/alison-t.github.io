@@ -14,11 +14,11 @@ It happens to be one of the most exciting parts of Computer Science, too.
 
 ## JavaScript? Is That Just Java's Full Name?
 
-<img class="ui medium right floated rounded image" src="../images/code.jpg">
+<img class="ui large right floated rounded image" src="../images/code.jpg">
 
 Going into ICS 314: Software Engineering I, at the University of Hawaii at Manoa (UHM), all I knew was that JavaScript was a programming language that existed--and that maybe, "Java," was just short for, "JavaScript." After going through freeCodeCamp's challenges of, "Basic JavaScript," and "ES6," I have learned that the latter is not quite the case. While I have come to find similarities between the two, making the initial introduction to JavaScript a smoother transition, Java and JavaScript have differences as well.
 
-A notable difference between Java and JavaScript, along with C and JavaScript, is the lack of variable-type declaration within the code.
+A notable difference between Java and JavaScript, along with C++ and JavaScript, is the lack of variable-type declaration within the code.
 
 ### Java:
 ```
