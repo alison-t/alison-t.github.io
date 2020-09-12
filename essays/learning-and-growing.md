@@ -27,15 +27,16 @@ The "athletic" approach to learning puts focus on active and almost-daily use of
 For one of our WODs, we had to implement a `Menu` class, which contained various instances of `MenuItem`s. In my first attempt, I had written:
 
 ```
-class Menu {
+	class Menu {
 
-	constructor() {
-  	this.items = [];
-  }
+		constructor() {
+  			this.items = [];
+  		}
   
-  addMenuItem(item) {
-  	items.push(item);
-  } ...
+  		addMenuItem(item) {
+  			items.push(item);
+  		}
+		...
 ```
 
 This gave me the error that "items" was not defined. For a while, I was not sure how to fix it since I thought the constructor did the declaring and defining for me. Turns out, I missed the crucial step of putting `this.` before the class' variable I was referencing. While small, the five characters can make or break the function and the knowledge to look out for this particular mistake in my work proved useful in other WODs. Where this mistake kept me from completing an in-class, practice WOD, the practice of looking for the error and knowing how to correct it helped me finish the graded in-class WOD within the time-limit.
