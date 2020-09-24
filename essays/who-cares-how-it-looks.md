@@ -1,14 +1,15 @@
 ---
 layout: essay
 type: essay
-title: Who Cares How It Looks? It works!
+title: Who Cares How It Looks? It Works!
 date: 2020-09-24
 labels:
   - Coding Standards
   - ESLint
+  - IntelliJ
 ---
 
-<img class="ui large right floated rounded image" src="../images/rules.jpg">
+<img class="ui medium right floated rounded image" src="../images/rules.jpg">
 
 When it comes to writing--whether it be poetry, essays, reports, or novels--there tend to be rules involved. Different forms have different standards, restrictions, and formats, and to no surprise, coding has standards of its own. While like with all writing, these standards are not the end-all-be-all the success of a code, I believe they offer consistency that makes collaboration and interpretation much easier.
 
@@ -48,9 +49,9 @@ In the case of indentations, coding standards provide means of easily locating c
 
 From an opposing perspective, following coding standards can be quite tedious. Coding standards focus on indentations, the proper placement and use off parentheses, brackets, and braces, the number of spaces between words, and whether certain characters need to be on a separate line. Without active attention to these little details, maintaining code that follows proper standards is a timely task.
 
-Luckily, programs exist to help you find any errors that may exist in your code. In the same way Microsoft Word will leave squiggly lines under words with incorrect spelling or places with incorrect grammar, there are programs out there that inspect code and leave warnings for places where coding standards are not followed. In particular, I have started to use ESLint with IntelliJ (an IDE) for ICS 314.
-
 <img class="ui large right floated rounded image" src="../images/stages.png">
+
+Luckily, programs exist to help you find any errors that may exist in your code. In the same way Microsoft Word will leave squiggly lines under words with incorrect spelling or places with incorrect grammar, there are programs out there that inspect code and leave warnings for places where coding standards are not followed. In particular, I have started to use ESLint with IntelliJ (an IDE) for ICS 314.
 
 ESLint marks pieces of code that does not follow the coding style standards it has been provided with squiggly lines. Helpfully, the use of it with IntelliJ causes a small lightbulb to appear with information on what the error is and, usually, means of correcting it. In fact, there is an option to let ESLint run and fix what issues in the code that it can solve quite easily on its own. Compared to needing to count spaces and indentations and carefully inspect code character by character, these programs offer efficient means of proofreading and revising code.
 
