@@ -9,7 +9,7 @@ labels:
   - IntelliJ
 ---
 
-##Who Needs Formatting?
+## Who Needs Formatting?
 
 <img class="ui medium right floated rounded image" src="../images/rules.jpg">
 
@@ -49,7 +49,7 @@ Code with indentation (Follows coding standards):
 
 In the case of indentations, coding standards provide means of easily locating certain classes and functions, as well as discerning between their bodies. Similar to how drawing a circle pulls your focus to the contents of the circle, the declaration of classes, functions, and loops surrounding what is being done within them, eases a reader's ability to focus on the single part of the code, and to interpret the purpose of it.
 
-##But It's *So* Much Work
+## But It's *So* Much Work
 
 From an opposing perspective, following coding standards can be quite tedious. Coding standards focus on indentations, the proper placement and use off parenthases, brackets, and braces, the number of spaces between words, and whether or not certain characters need to be on a separate line. Without active attention to these little details, maintaining code that follows proper standards is a timely task.
 
