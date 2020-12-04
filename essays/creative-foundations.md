@@ -35,6 +35,6 @@ As fashion design classes started with using patterns because, as far as I knew,
 
 Likewise, by utilizing the [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) template in our final project, my group was able to put more focus into the unique drag-and-drop aspects of our [Classtellations](https://uh-classtellations.github.io/) project. The provided set-up for a Publisher-Subscriber design pattern allowed us to efficiently support unique transcripts for various users and control data being imported, shared, and displayed. Without the use of said design pattern, we would have dedicated hours--or even days--to developing a structure and code that could function as we wanted it to.
 
-<img class="ui medium right floated rounded image" src="../images/design-architecture.jpeg">
+<img class="ui small right floated rounded image" src="../images/design-architecture.jpeg">
 
 You cannot lay a building without foundation. You cannot design an outfit without knowing the basic approaches to a shirt or skirt. There's really no software engineering without considering the design patterns there for use.
