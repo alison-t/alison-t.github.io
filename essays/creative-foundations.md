@@ -11,7 +11,7 @@ labels:
 
 ## Design Patterns? Like Plaid?
 
-<img class="ui medium right floated rounded image" src="../images/fashion-design.jpeg">
+<img class="ui small right floated rounded image" src="../images/fashion-design.jpeg">
 
 Regardless of expertise, patterns are used throughout the fashion industry. Where items of clothing can vary in texture, print, and accents, a lot of the structural aspects of the pieces remain the same. In software engineering, design patterns provide similar foundations to code. Where the basic architecture of a shirt hardly varies between designers, choices in fabric, seams, cuts, and sleeves, can make all the difference. Similarly, where software engineers might approach their applications with the same model-view-controller design pattern, the actual applications could be completely different.
 
@@ -27,7 +27,7 @@ When I first took a fashion design class, patterns were the go-to. Patterns that
 
 As the middle part of the semester's work follows, a lot of work was done as small manipulations to the [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) template. These WODs taught me (though I was not aware at the time) basic understandings of design patterns, like the Publisher-Subscriber design pattern, which influenced my design in my final project.
 
-<img class="ui medium left floated rounded image" src="../images/sewing.jpeg">
+<img class="ui small left floated rounded image" src="../images/sewing.jpeg">
 
 As fashion design classes started with using patterns because, as far as I knew, that was the easiest thing to do--I grew to understand their use. In a fashion design competition, I was able to adjust patterns and my knowledge of their architecture to construct my own pattern and dress. What time I saved in using patterns for the basic foundations of the structural design of my dress, I was able to apply to accent, color, and more aesthetic considerations.
 
