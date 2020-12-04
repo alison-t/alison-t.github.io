@@ -23,7 +23,7 @@ Through the use of patterns, knowledge can be shared and adapted for greater eff
 
 When I first took a fashion design class, patterns were the go-to. Patterns that came in little paper pouches were the saving grace of straight cuts and properly sized seam-allowances. By following patterns and utilizing them as-is, I learned basic approaches and technique to sewing and design. This is similar to the approach to design patterns that ICS 314 begins with.
 
-<img class="ui medium left floated rounded image" src="../images/collaborative-code.jpeg">
+<img class="ui small left floated rounded image" src="../images/collaborative-code.jpeg">
 
 As the middle part of the semester's work follows, a lot of work was done as small manipulations to the [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) template. These WODs taught me (though I was not aware at the time) basic understandings of design patterns, like the Publisher-Subscriber design pattern, which influenced my design in my final project.
 
