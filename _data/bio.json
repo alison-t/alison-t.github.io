@@ -6,7 +6,7 @@
     "email": "atomooka@hawaii.edu",
     "phone": "",
     "website": "https://alison-t.github.io",
-    "summary": "I am studying for a B.A. in Economics and a minor in Computer Science at the University of Hawaii at Manoa. I am expected to graduate in Spring 2022, with plans for a Post-Graduate degree.",
+    "summary": "I am studying for a B.A. in Economics and a minor in Computer Science at the University of Hawaii at Mānoa. I am expected to graduate in Spring 2022, with plans for a Post-Graduate degree.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Web Design",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "Data Science",
+      "name": "Web Design",
       "keywords": [
       ]
     }
@@ -60,8 +60,9 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Windows"
+        "Microsoft Word, Excel, Powerpoint, OneNote, Outlook"
       ]
     }
   ],
@@ -88,7 +89,7 @@
   ],
   "work": [
     {
-      "company": "Manoa Bookstore",
+      "company": "Mānoa Bookstore",
       "position": "Bookstore Customer Service Associate II",
       "website": "https://www.bookstore.hawaii.edu/manoa/",
       "startDate": "2018-10-01",
@@ -102,6 +103,20 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Elemental Minds, LLC",
+      "website": "http://elementalminds.org/",
+      "position": "Teacher's Assistant/Lead Teacher",
+      "startDate": "Summer 2015",
+      "endDate": "Summer 2018",
+      "summary": "Assist with running Elemental Minds' Summer STEM enrichment camps.",
+      "highlights": [
+        "Help students understand activities and problem-solve",
+        "Keep students focused and on-task",
+        "Prep and distribute materials for activities",
+        "Lead lessons/activities"
+      ]
+    },
     {
       "organization": "Key Club International: Castle High School",
       "website": "",
@@ -117,9 +132,15 @@
   ],
   "awards": [
     {
-      "title": "Manoa Academic Merit Scholarship",
+      "title": "Myrle Clark Award",
+      "date": "May 2020",
+      "awarder": "Department of English, University of Hawaii, Mānoa",
+      "summary": "The Myrle Clark Awards each year are by vote of the entire creative writing committee, on nominations from faculty; the awards are to encourage student writers in the categories of fiction, creative nonfiction, and poetry."
+    },
+    {
+      "title": "Mānoa Academic Merit Scholarship",
       "date": "2018-Present",
-      "awarder": "University of Hawaii, Manoa",
+      "awarder": "University of Hawaii, Mānoa",
       "summary": "The Mānoa Academic Merit Scholarship is an automatic scholarship for four years of undergraduate study. This scholarship is for first-time, degree-seeking students who enroll the semester after high school graduation."
     },
     {
