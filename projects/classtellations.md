@@ -14,9 +14,9 @@ labels:
 summary: For our final project in ICS 314 at UHM, my team developed an application for a flow-chart inspired view of academic progress.
 ---
 
-Classtellations is an application intended to help students keep track of their academic progress and future. Currently targeted towards students within the ICS program at UH, the application is intended to be an extension of the STAR GPS program used by all students within the UH system.
-
 <img class="ui medium left floated rounded image" src="../images/classtellations-progress-page.jpg">
+
+Classtellations is an application intended to help students keep track of their academic progress and future. Currently targeted towards students within the ICS program at UH, the application is intended to be an extension of the STAR GPS program used by all students within the UH system.
 
 A play on the words "class" and "constellations", the visual appearance--similar to a flow-chart--of the progress page, is meant to create a visual map connecting the various ICS course. Arrows extend from lower division and introductory course and point to the courses in which they are pre-requisites for.
 
