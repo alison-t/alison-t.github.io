@@ -16,9 +16,9 @@ summary: For our final project in ICS 314 at UHM, my team developed an applicati
 
 <img class="ui medium left floated rounded image" src="../images/classtellations-progress-page.jpg">
 
-Classtellations is an application intended to help students keep track of their academic progress and future. Currently targeted towards students within the ICS program at UH, the application is intended to be an extension of the STAR GPS program used by all students within the UH system.
+Classtellations is an application intended to help students keep track of their academic progress and future. Currently targeted towards students within the ICS program at UH, the application is intended to be an extension of the STAR GPS program (used by all students within the UH system).
 
-A play on the words "class" and "constellations", the visual appearance--similar to a flow-chart--of the progress page, is meant to create a visual map connecting the various ICS course. Arrows extend from lower division and introductory course and point to the courses in which they are pre-requisites for.
+A play on the words "class" and "constellations", the visual appearance--similar to a flow-chart--of the progress page, is meant to create a visual map connecting the various ICS course. Arrows extend from lower division and introductory course and point to the courses in which they are pre-requisites for. This allows for students to clearly see and plan their time in college.
 
 Utilizing various frameworks including Meteor, React, and Semantic UI, the application in a cumulative project that reflects the skills and concepts taught in ICS 314: Software Engineering I. Collaborating on the project also provided opportunities for practicing team work, communication, time management, and issue-based planning (through GitHub).
 
