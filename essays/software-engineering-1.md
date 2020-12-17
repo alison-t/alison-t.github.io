@@ -23,8 +23,10 @@ Software engineering and computer science involves a large and diverse community
 
 Learning to navigate open-source environments--the how-to and etiquette--has been vital to my growth within the field of computer science, but also as a human invested in helping the world and lifelong-learning. While "smart questioning" made for a lesson in how to best get help on errors and bugs in my code, it mostly taught me the importance of learning how to ask *better* questions. Good communication becomes incredibly essential with the large collaboration that open-source is, but good communication is essential everywhere. Developing the skill of asking questions--questions that will get you the answer you are looking for--applies to any environment and community. It is quite difficult to find the solutions to problems you cannot explain; to get help on issues you cannot define.
 
-<img class="ui small left floated rounded image" src="../images/empty-lecture.jpeg">
+<img class="ui medium left floated rounded image" src="../images/empty-lecture.jpeg">
+
+With the COVID-19 pandemic putting classes online and social interaction being hindered, communication has become even more important. The ability to collaborate from a distance and ask questions without being there to physically show someone the problem have become staples of the 2020 world--classrooms included.
 
 <img class="ui medium right floated rounded image" src="../images/world-in-hand.jpeg">
 
-With the COVID-19 pandemic putting classes online and social interaction being hindered, communication has become even more important. The ability to collaborate from a distance and ask questions without being there to physically show someone the problem have become staples of the 2020 world--classrooms included. Thus, teaching for the "real world" students already exist in--not the career they might graduate into--has never been more crucial. The capacity for teaching and learning concepts specific to subjects, like software engineering, and applying those skills towards more general experiences, will make all the difference.
+Thus, teaching for the "real world" students already exist in--not the career they might graduate into--has never been more crucial. The capacity for teaching and learning concepts specific to subjects, like software engineering, and applying those skills towards more general experiences, will make all the difference.
