@@ -22,10 +22,16 @@ A play on the words "class" and "constellations", the visual appearance--similar
 
 <img class="ui medium right floated rounded image" src="../images/github-issues.png">
 
-Utilizing various frameworks including Meteor, React, and Semantic UI, the application in a cumulative project that reflects the skills and concepts taught in ICS 314: Software Engineering I. Collaborating on the project also provided opportunities for practicing team work, communication, time management, and issue-based planning (through GitHub).
+Utilizing various frameworks including Meteor, React, and Semantic UI, the application in a cumulative project that reflects the skills and concepts taught in ICS 314: Software Engineering I. Tasked with implementing the transcript page of the Classtellations project, I was responsible for a large part of the database/server side of the application. This included designing collections and schema, insuring courses added and deleted from collections correctly, and listing of courses on the transcript webpage appeared in chronological order.
 
-For more information regarding Classtellations, please visit [our project's home page](https://uh-classtellations.github.io/).
+<img class="ui medium right floated rounded image" src="../images/github-issues.png">
+
+Collaborating on the project also provided opportunities for practicing team work, communication, time management, and issue-based planning (through GitHub). Classtellations has been the biggest project I have worked on with a team--through an ICS course and at UH. Adding on the lack of physical meetings and dicussion due to the COVID-19 pandemic, it became more essential to better my communication skills. While difficult, through using Discord chat and voice channels, our team was able to overcome the various obstacles and errors we encounted in building the applicaiton.
+
+For more information regarding the Classtellations project, please visit [our project's home page](https://uh-classtellations.github.io/).
 
 The application itself is deployed via Digital Ocean and can be found [here](https://classtellations.xyz/#/).
+
+Source code for the Classtellations project is available [through Github](https://github.com/uh-classtellations/uh-classtellations), however the directory is private and requires a request to access.
 
 
