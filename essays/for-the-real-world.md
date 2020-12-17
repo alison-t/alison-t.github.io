@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img class="ui medium left floated rounded image" src="../images/math-class.jpeg">
+<img class="ui medium right floated rounded image" src="../images/math-class.jpeg">
 
 I have always felt, that outside of differences in subject areas and expertise, teaching should be about providing students with skills for the world. Sure, someone might need to find the derivative of cosine at their job one day, but the ability to look at a problem, recognize what they know and what they are solving for--that applies to far more than just word problems in math class. Similarly, where ICS 314 teaches concepts of software engineering, the skills and experiences I have acquired extend far beyond the classroom and computer science field.
 
