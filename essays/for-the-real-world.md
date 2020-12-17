@@ -9,13 +9,13 @@ labels:
   - JavaScript
 ---
 
-<img class="ui medium right floated rounded image" src="../images/math-class.jpeg">
+<img class="ui large left floated rounded image" src="../images/math-class.jpeg">
 
 I have always felt, that outside of differences in subject areas and expertise, teaching should be about providing students with skills for the world. Sure, someone might need to find the derivative of cosine at their job one day, but the ability to look at a problem, recognize what they know and what they are solving for--that applies to far more than just word problems in math class. Similarly, where ICS 314 teaches concepts of software engineering, the skills and experiences I have acquired extend far beyond the classroom and computer science field.
 
-<img class="ui medium left floated rounded image" src="../images/collaboration.jpeg">
-
 Since starting the ICS program, I have noticed that computer science involves a lot more collaboration than I first thought. Granted, most classes from Kindergarten push group assignments on the notion that in the "real world" you will need to work with others. Given how coding has so many dependent parts in order to function correctly, however, the amount of "working together" that I have experienced in ICS 314 has been eye-opening.
+
+<img class="ui medium left floated rounded image" src="../images/collaboration.jpeg">
 
 Software engineering and computer science involves a large and diverse community of coders, hackers, etc. On one hand, such a vast pool means greater competition for jobs and necessity to create something *new*. On the other hand, this community has helped create many wonderful things *together*. Open-source development exists as a public collection of various software and is fueled by those providing new code, helpful fixes and improvements, and those who borrow it for their own applications. Forums for help, like Stack Overflow, are another essential part of the open-source community and allow teaching and learning to happen in a global platform.
 
