@@ -25,7 +25,7 @@ When I first took a fashion design class, patterns were the go-to. Patterns that
 
 <img class="ui small left floated rounded image" src="../images/collaborative-code.jpeg">
 
-As the middle part of the semester's work follows, a lot of work was done as small manipulations to the [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) template. These WODs taught me (though I was not aware at the time) basic understandings of design patterns, like the Publisher-Subscriber design pattern, which influenced my design in my final project.
+In similar fashion, towards mid-semester of ICS 314, a lot of work was done as small manipulations to the [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) template. These Workout-Of-the-Days (WODs) taught me (though I was not aware at the time) basic understandings of design patterns, like the Publisher-Subscriber design pattern, which influenced my design in my final project.
 
 <img class="ui small right floated rounded image" src="../images/sewing.jpeg">
 
@@ -35,6 +35,4 @@ As fashion design classes started with using patterns because, as far as I knew,
 
 Likewise, by utilizing the [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) template in our final project, my group was able to put more focus into the unique drag-and-drop aspects of our [Classtellations](https://uh-classtellations.github.io/) project. The provided set-up for a Publisher-Subscriber design pattern allowed us to efficiently support unique transcripts for various users and control data being imported, shared, and displayed. Without the use of said design pattern, we would have dedicated hours--or even days--to developing a structure and code that could function as we wanted it to.
 
-<img class="ui small right floated rounded image" src="../images/design-architecture.jpeg">
-
-You cannot lay a building without foundation. You cannot design an outfit without knowing the basic approaches to a shirt or skirt. There's really no software engineering without considering the design patterns there for use.
+You cannot design an outfit without knowing the basic approaches to a shirt or skirt. There's really no software engineering without considering the design patterns there for use.
