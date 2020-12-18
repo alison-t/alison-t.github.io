@@ -13,7 +13,7 @@ labels:
 summary: For our final project in ICS 111 at UH, my team designed a Pacman-inspired game.
 ---
 
-ICS 111 is the introductory course for the Computer Science program at UH Manoa. Over the semester, we are taught how to use the language, Java. As a final showcase of what we learned in the class, we were assigned to create a project utilizing various concepts covered throughout the semester.
+ICS 111 is the introductory course for the Computer Science program at UH Manoa. Over the semester, we are taught how to use the language: Java. As a final showcase of what we learned in the class, we were assigned to create a project utilizing various concepts covered throughout the semester.
 
 These concepts included:
   - Array Lists
@@ -29,7 +29,7 @@ Working with two of my classmates, we designed a game that mimicked Pacman--minu
 
 In creating the project, I developed a greater understanding of what code can create and the pros and cons of collaboration.
 
-With classroom settings being limited and lack of experience proving to be an obstacle in what I could create at the time, the final product of a functioning game was incredibly fulfilling and eye-opening. The project became physical proof that learning to code and developing proficiency in programming language take time and practice. I did not need some innate aptitude towards either.
+With classroom settings being limited and lack of experience proving to be an obstacle in what I was capable if creating at the time, the final product of a functioning game was incredibly fulfilling and eye-opening. The project became physical proof that learning to code and developing proficiency in programming language takes time and practice--not innate aptitude.
 
 Less specific to Computer Science, though possibly more important, I gained a better understanding of teamwork and collaboration. On one end, I realized the necessity of communication and follow-through. As a freshman in college without a license, my means of transportation and free time were quite limited--as were that of my group members. With limited time to complete the project, we managed to find one sufficient day to meet to work on the project outside of class. A meeting that was significantly less productive with members not having made progress on their classes and failing to show up on time.
 
