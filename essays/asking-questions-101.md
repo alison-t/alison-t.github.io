@@ -13,7 +13,7 @@ In their essay, [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/f
 
 ## What is the *Smart* Way?
 
-To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility of the Internet and Google (or your preferred search engine), chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
+To begin, Raymond and Moen stress doing research and attempting to the solve the problem before reaching out to others for help. With the rapid growth of the hacker community and the accessibility to the Internet, chances are high that an answer to your question already exists. If you have found yourself unsuccessful in solving your problem through pre-existing forum threads, manuals, FAQs, and friends who might be able to assist, then it could be time to pose a question of your own.
 
 <img class="ui medium right floated rounded image" src="../images/brain.jpg">
 
@@ -64,10 +64,10 @@ The approach to asking their question the "smart way," is rewarded in a working 
 
 To all the above, I am inclined to say, "No."
 
-Learning must begin somewhere. Experience must start somewhere. Usually, it begins with these "stupid" questions that seem much too simple for veterans in any field. It would be wise to remember, though, that we all start from somewhere.
+Learning must begin somewhere. Experience and skill come with time. Usually, it begins with these "stupid" questions that seem much too simple for veterans in any field. It would be wise to remember, though, where we all started from.
 
-Every question holds value, maybe to you, the person asking, or a freshman in the UH ICS program with no coding experience Googling their way to the fix to the error in their code. This value gives the question purpose, thus making it far from being "stupid" to have asked, because turns out, someone probably needed the answer.
+Questioning is a skill--it takes time and practice, plus a bit of stumbling around and struggling to find answers. In the same way there are concepts in math you might have trouble asking for help on because you do not understand enough to get your misunderstanding across, computer science trouble can be equally confusing to navigate finding the right questions--not to mention, the right answers.
 
-Yet there *are* stupid ways to asking a question. In the same way asking an English professor for help on math homework before checking with your math professor might not be the brightest decision, "smart" questioning is a matter of the approach to the question and situation--not the actual question being asked. Being resourceful and working through the issue to the best of your ability, prior to reaching out more publicly for help, is an important skill in technical questioning.
+It is not that stupid questions will fail to get your results, but more so that the questions being asked may only offer select answers. Knowing the right questions to ask will take trial, error, and effort on your part, but the answers and knowledge you will gain from it are worth it.
 
-It is not that stupid questions will get you stupid results, but more so that the amount of effort you put into your own problems will be reflected in the attempts to help by others.
+So, while there are no *stupid* questions, there are ways to ask **better** ones.
