@@ -70,4 +70,4 @@ Questioning is a skill--it takes time and practice, plus a bit of stumbling arou
 
 It is not that stupid questions will fail to get your results, but more so that the questions being asked may only offer select answers. Knowing the right questions to ask will take trial, error, and effort on your part, but the answers and knowledge you will gain from it are worth it.
 
-So, while there are no *stupid* questions, there are ways to ask **better** ones.
+So, while there are no *stupid* questions, there are ways to ask *better* ones.
