@@ -29,7 +29,7 @@ In similar fashion, towards mid-semester of ICS 314, a lot of work was done as s
 
 <img class="ui small right floated rounded image" src="../images/sewing.jpeg">
 
-As fashion design classes started with using patterns because, as far as I knew, that was the easiest thing to do--I grew to understand their use. In a fashion design competition, I was able to adjust patterns and my knowledge of their architecture to construct my own pattern and dress. What time I saved in using patterns for the basic foundations of the structural design of my dress, I was able to apply to accent, color, and more aesthetic considerations.
+As fashion design classes started with using patterns because, as far as I knew, that was the easiest thing to do--I grew to understand their use. In a fashion design competition, I was able to adjust patterns and my knowledge of their architecture to construct my own pattern and dress. With the time I saved using patterns for the basic foundations of the structural design of my dress, I was able to apply to accent, color, and more aesthetic considerations.
 
 <img class="ui medium left floated rounded image" src="../images/transcript-example.png">
 
